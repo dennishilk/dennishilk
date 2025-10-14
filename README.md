@@ -4,14 +4,14 @@
 a Debian-based DWM and AwesomeWM distribution.
 
 ### 🔭 Current Projects
-- 🧩 [Desktop Manager v8](https://github.com/dennishilk/desktop-manager)
-- ⚙️ [Deb13 Optimizer](https://github.com/dennishilk/deb13-optimizer)
-- 🔊 [SPDIF Soundfix](https://github.com/dennishilk/soundfix)
-- 🪐 [Nebunix OS](https://github.com/dennishilk/nebunix-os)
+- 🧩 [Backup/Restore tool for DWM]([backup-restore-dwm)
+- ⚙️ [Linux Gaming Toolkit](https://github.com/dennishilk/linux-gaming-toolkit)
+- 🔊 [SPDIF Soundfix](https://github.com/dennishilk/spdif-fix)
+- 🪐 [Debian 13 Nvidia Driver](https://github.com/dennishilk/nvidia-driver)
 
 ### 💬 About
 I focus on minimal, high-performance Linux environments for developers and gamers.  
-All my tools are open source and written for Debian & Arch users.
+All my tools are open source and written for Debian &or Arch users.
 
 <!--
 **dennishilk/dennishilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<meta name="google-site-verification" content="_m93-LDGjfdxXUD657jihKgUqjPPhLnrpgnneN9_GVU" />
