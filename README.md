@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Dennis Hilk
 
 🐧 Linux developer and creator of **Nebunix OS**,  
-a Debian-based DWM and AwesomeWM distribution.
+a Debian-based DWM distribution.
 
 ### 🔭 Current Projects
 - 🧩 [Backup/Restore tool for DWM]([backup-restore-dwm)
