@@ -13,7 +13,7 @@ a Debian-based DWM and AwesomeWM distribution.
 I focus on minimal, high-performance Linux environments for developers and gamers.  
 All my tools are open source and written for Debian &or Arch users.
 
-<meta name="google-site-verification" content="_m93-LDGjfdxXUD657jihKgUqjPPhLnrpgnneN9_GVU" />
+
 <!--
 **dennishilk/dennishilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 -->
 
 
-<meta name="google-site-verification" content="_m93-LDGjfdxXUD657jihKgUqjPPhLnrpgnneN9_GVU" />
+<!-- google-site-verification: _m93-LDGjfdxXUD657jihKgUqjPPhLnrpgnneN9_GVU" />
