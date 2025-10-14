@@ -5,6 +5,7 @@
    a Debian-based DWM distribution.
 
 ### 🔭 Current Projects
+- 🐧  Nebunix OS * in progress
 - 🧩 [Backup/Restore tool for DWM]([backup-restore-dwm)
 - ⚙️ [Linux Gaming Toolkit](https://github.com/dennishilk/linux-gaming-toolkit)
 - 🔊 [SPDIF Soundfix](https://github.com/dennishilk/spdif-fix)
