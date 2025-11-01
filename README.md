@@ -6,6 +6,8 @@
 
 ### 🔭 Current Projects
 - 🐧  Nebunix OS * in progress
+- 🐧  Project Maxwell * in progress
+- 🐧  Pinguin Power Plant * in progress 
 - 🧩 [Backup/Restore tool for DWM](https://github.com/dennishilk/backup-restore-dwm)
 - ⚙️ [Linux Gaming Toolkit](https://github.com/dennishilk/linux-gaming-toolkit)
 - 🔊 [SPDIF Soundfix](https://github.com/dennishilk/spdif-fix)
