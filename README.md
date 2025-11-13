@@ -1,8 +1,12 @@
 <meta name="google-site-verification" content="_m93-LDGjfdxXUD657jihKgUqjPPhLnrpgnneN9_GVU" />
-## 👋 Hi, I'm Dennis Hilk
+## 👋 I’m Dennis — Linux nerd with too many penguins and too many projects  
+🐧 Creator of Project Maxwell • Nebunix OS • Penguin Power Plant  
+🛠 Building installers, fixes, configs and other questionable shell scripts  
+💥 Arch • NixOS • Debian — yes, I daily-drive all of them  
+⚡ “sudo holdmyteacup” (coming soon)  
+☕ Powered exclusively by East Frisian tea  
+🔥 My scripts have 3 states: works, almost works, and why is everything on fire?
 
-🐧 Linux developer and creator of **Nebunix OS**,  
-   a Debian-based DWM distribution.
 
 ### 🔭 Current Projects
 - 🐧  Nebunix OS * in progress
