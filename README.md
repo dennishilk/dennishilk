@@ -7,10 +7,9 @@
 
 # 👋 I’m Dennis — currently running 3 distros and zero stability  
 🐧 Penguin enthusiast. I maintain more Linux projects than actual humans.  
-💽 Creator of:  
-&nbsp;&nbsp;&nbsp;• **[Project Maxwell](https://github.com/dennishilk/Project-Maxwell)** (coming soon™)  
-&nbsp;&nbsp;&nbsp;• **Nebunix OS** (runs better than my life)  
-&nbsp;&nbsp;&nbsp;• **Penguin Power Plant** (educates you, bullies you)  
+
+💽 Creator of:&nbsp;&nbsp;&nbsp;**[BoringWM](https://github.com/dennishilk/boringwm)** 
+ 
 
 🛠 **My scripts have 3 states:**  
 &nbsp;&nbsp;&nbsp;1) works  
