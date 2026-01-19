@@ -8,7 +8,11 @@
 # 👋 I’m Dennis — currently running 3 distros and zero stability  
 🐧 Penguin enthusiast. I maintain more Linux projects than actual humans.  
 
-💽 Creator of:&nbsp;&nbsp;&nbsp;**[BoringWM](https://github.com/dennishilk/boringwm)** 
+💽 Creator of:&nbsp;&nbsp;&nbsp;
+**[BoringWM](https://github.com/dennishilk/boringwm)**  
+💽 Creator of:&nbsp;&nbsp;&nbsp;
+**[Body2Bits](https://github.com/dennishilk/Body2Bits)** – Human body as a game controller
+
  
 
 🛠 **My scripts have 3 states:**  
