@@ -49,7 +49,7 @@
 
 # 🔭 Current Projects
 
-- 🐧 **Nebunix OS** — in progress  
+- 🐧 **Body2Bits** — in progress  
 - 🐧 **Project Maxwell** — in progress  
 - 🐧 **Penguin Power Plant** — in progress  
 - 🧩 [Backup/Restore tool for DWM](https://github.com/dennishilk/backup-restore-dwm)  
