@@ -11,7 +11,7 @@
 💽 Creator of:&nbsp;&nbsp;&nbsp;
 **[BoringWM](https://github.com/dennishilk/boringwm)**  
 💽 Creator of:&nbsp;&nbsp;&nbsp;
-**[Body2Bits](https://github.com/dennishilk/Body2Bits)** – Human body as a game controller
+**[World Observer](https://github.com/dennishilk/world-observer)** 
 
  
 
@@ -49,7 +49,7 @@
 
 # 🔭 Current Projects
 
-- 🐧 **Body2Bits** — in progress  
+- 🐧 [World Observer](https://github.com/dennishilk/world-observer) 
 - 🐧 **Project Maxwell** — in progress  
 - 🐧 **Penguin Power Plant** — in progress  
 - 🧩 [Backup/Restore tool for DWM](https://github.com/dennishilk/backup-restore-dwm)  
