@@ -19,6 +19,7 @@
   <a href="https://www.dennishilk.com/"><img src="https://img.shields.io/badge/dennishilk.com-website-00B4FF?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/dennishilk/boringos"><img src="https://img.shields.io/badge/BoringOS-from%20scratch-111111?style=for-the-badge&logo=c&logoColor=white" alt="BoringOS"></a>
   <a href="https://www.dennishilk.com/linux-migration-companion/"><img src="https://img.shields.io/badge/Linux%20Migration-Companion-2EA44F?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Migration Companion"></a>
+  <a href="https://github.com/dennishilk/windows-telemetry-inspector"><img src="https://img.shields.io/badge/Windows%20Telemetry-Inspector-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows Telemetry Inspector"></a>
 </p>
 
 ---
@@ -43,6 +44,14 @@ A **local-first, explainable Windows-to-Linux migration advisor**. It helps peop
 The public **0.3.0** release runs without accounts, backend analytics or telemetry and keeps the decision model inspectable instead of reducing migration to a mystery percentage.
 
 [Open the app](https://www.dennishilk.com/linux-migration-companion/) · [Repository](https://github.com/dennishilk/linux-migration-companion)
+
+### 🛰️ [Windows Telemetry Inspector](https://github.com/dennishilk/windows-telemetry-inspector) — passive Windows 11 network diagnostics
+
+A native **WPF / .NET 8 desktop application** built around Event Tracing for Windows (ETW). It shows which processes and services communicate over the network, when traffic occurs, where it goes and how much data moves — while keeping the observation local.
+
+It is deliberately an **inspector, not a blocker**: no traffic modification, no MITM proxy, no TLS decryption and no kernel driver. The release build is available as a **self-contained Windows x64 executable**, so a separate .NET runtime is not required.
+
+[Repository](https://github.com/dennishilk/windows-telemetry-inspector)
 
 ---
 
