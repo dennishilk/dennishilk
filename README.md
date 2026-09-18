@@ -108,13 +108,20 @@ NixOS survivor.
 
 ---
 
-## ☕ Buy me a tea
+## 💙 Support my work
 
-I only drink East Frisian tea — the coffee counter above is not a typo.
+If you enjoy BoringOS, the lab experiments or the other open-source projects, you can now support my work directly through **GitHub Sponsors**.
 
-<a href="https://buymeacoffee.com/dennishilk" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Tea-00B4FF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Tea">
-</a>
+And because I still only drink East Frisian tea, the coffee button remains a tea button. ☕
+
+<p>
+  <a href="https://github.com/sponsors/dennishilk">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Dennis on GitHub">
+  </a>
+  <a href="https://buymeacoffee.com/dennishilk">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Tea-00B4FF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Tea">
+  </a>
+</p>
 
 ---
 
